@@ -1,0 +1,13 @@
+public class Method {
+    public String name;
+    public String scope;
+    
+    public String getScope(){
+        return this.scope;
+    }
+}
+
+public class Variable {
+    public String type;
+    public String name;
+}
